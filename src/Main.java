@@ -1,3 +1,12 @@
+/**Class: Main
+ * @author Tyler Robinson
+ * @version 1.7
+ * Course: ITEC 2140 Spring 2023
+ * Written: April 25, 2024
+ */
+
+
+
 import java.util.Stack;
 
 public class Main {

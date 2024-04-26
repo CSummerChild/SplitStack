@@ -1,3 +1,12 @@
+/**Class: SplitStack
+ * @author Tyler Robinson
+ * @version 1.2
+ * Course: ITEC 2140 Spring 2023
+ * Written: April 25, 2024
+ */
+
+
+
 import java.util.Stack;
 import java.util.Queue;
 import java.util.LinkedList;
